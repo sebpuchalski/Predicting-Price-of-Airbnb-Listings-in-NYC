@@ -8,4 +8,6 @@ The objective of the analysis is to:
 -understand if any listings may be over or underpriced 
 -derive additional useful and interesting insights
 
-The Machine Learning part of the project is in progress
+The first part (NYC Airbnb Data Preparation and Analysis) deals with taking the existing dataset, performing data cleaning, feature engineering and preliminary analysis. The product of this part is a data file for Machnie Learning analysis.
+
+The Machine Learning part of the project (NYC Airbnb ML in progress) applies machine learning algorithms to predict price of lising based on various input variables. This part of the project is partially completed, but still in progress.
